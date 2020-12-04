@@ -1,0 +1,10 @@
+
+@import url(chrome://LargerMessageList/content/styles/root.css);
+
+#folderTree>treechildren::-moz-tree-row {
+    height: var(--folder-tree-row-height) !important;
+}
+
+#threadTree>treechildren::-moz-tree-row {
+    height: var(--message-list-row-height) !important;
+}

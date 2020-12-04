@@ -1,0 +1,12 @@
+
+:root {
+    /**
+    Main panel message list
+    */
+    --message-list-row-height: 36px;
+
+    /**
+    Main tab folder menu
+    */
+	--folder-tree-row-height: 28px;
+}
